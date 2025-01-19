@@ -5,7 +5,7 @@ Moose Interactive was founded in December of 2024, but we've been making Minecra
 We're passionate about making experiences on Minecraft - and we can do that through the power of our servers. 
 
 ## People behind Moose Interactive.
-- [Ashe](https://github.com/sknonoes) is the CEO and Director of Moose Interactive, she's been with us since the very beginning and she has loads of experience with servers!
+- [Noah](https://github.com/sknonoes) is the CEO and Director of Moose Interactive, he's been with us since the very beginning and he has loads of experience with servers!
 
 ## Contact us
 If you need to contact us, send an email to dm@mooseinteractive.co.uk or support@mooseinteractive.co.uk.
