@@ -10,8 +10,7 @@ We're passionate about making experiences on Minecraft - and we can do that thro
 ## Our current projects
 Our current projects are:
 
-- [Sweepy](https://sweepy.uk), designed to resolve all your issues with Minecraft server hosting.
-- [GearBound](https://gearbound.net), a modded Minecraft server, powered by [Sweepy](https://sweepy.uk).
+- [GearBound](https://gearbound.net), a modded Minecraft server.
 
 ## Contact us
 If you need to contact us, send an email to dm@mooseinteractive.co.uk or support@mooseinteractive.co.uk.
