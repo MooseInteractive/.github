@@ -14,3 +14,10 @@ Our current projects are:
 
 ## Contact us
 If you need to contact us, send an email to dm@mooseinteractive.co.uk or support@mooseinteractive.co.uk.
+
+## Legal Information
+**Company Name**: Moose Interactive Entertainment LTD
+
+**Company Number**: 16154768
+
+**Company Address**: Office 11516, 182-184 High Street North, East Ham, London, United Kingdom, E6 2JA
