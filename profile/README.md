@@ -13,7 +13,10 @@ Our current projects are:
 - [GearBound](https://gearbound.net), a modded Minecraft server.
 
 ## Contact us
-If you need to contact us, send an email to dm@mooseinteractive.co.uk or support@mooseinteractive.co.uk.
+If you need to contact us, send an email to dm@mooseinteractive.co.uk or support@mooseinteractive.co.uk. You can find Player Support on the Moose Interactive website.
+
+## Service Status
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1rh8c.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ## Legal Information
 **Company Name**: Moose Interactive Entertainment LTD
