@@ -11,6 +11,7 @@ We're passionate about making experiences on Minecraft - and we can do that thro
 Our current projects are:
 
 - [GearBound](https://gearbound.net), a modded Minecraft server.
+- [CloudClash](https://cloudclash.net), a PVP Minecraft server with a unique twist.
 
 ## Contact us
 If you need to contact us, send an email to dm@mooseinteractive.co.uk or support@mooseinteractive.co.uk. You can find Player Support on the Moose Interactive website.
