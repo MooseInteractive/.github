@@ -20,7 +20,7 @@ If you need to contact us, send an email to dm@mooseinteractive.co.uk or support
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1rh8c.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ## Legal Information
-**Company Name**: Moose Interactive Entertainment LTD
+**Company Name**: Moose Interactive LTD
 
 **Company Number**: 16154768
 
