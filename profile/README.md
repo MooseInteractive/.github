@@ -5,13 +5,15 @@ Moose Interactive was founded in December of 2024, but we've been making Minecra
 We're passionate about making experiences on Minecraft - and we can do that through the power of our servers. 
 
 ## People behind Moose Interactive.
-- [Myah](https://github.com/myahrrz) is the CEO and Director of Moose Interactive, she's been with us since the very beginning and she has loads of experience with servers!
+- [Myah](https://github.com/myahmorp) is the CEO and Director of Moose Interactive, she's been with us since the very beginning and she has loads of experience with servers!
 
 ## Our current projects
 Our current projects are:
 
 - [GearBound](https://gearbound.net), a modded Minecraft server.
 - [CloudClash](https://cloudclash.net), a PVP Minecraft server with a unique twist.
+- [Neverval](https://neverval.com), a unique survival experience.
+- [Waze Events](https://wazeevents.co.uk), a Minecraft event server. 
 
 ## Contact us
 If you need to contact us, send an email to dm@mooseinteractive.co.uk or support@mooseinteractive.co.uk. You can find Player Support on the Moose Interactive website.
