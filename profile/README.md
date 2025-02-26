@@ -16,7 +16,7 @@ Our current projects are:
 - [Waze Events](https://wazeevents.co.uk), a Minecraft event server. 
 
 ## Contact us
-If you need to contact us, send an email to dm@mooseinteractive.co.uk or support@mooseinteractive.co.uk. You can find Player Support on the Moose Interactive website.
+If you need to contact us, send an email to dm@moose.it.com or support@moose.it.com. You can find Player Support on the Moose Interactive website.
 
 ## Service Status
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1rh8c.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
